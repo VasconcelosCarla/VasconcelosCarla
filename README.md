@@ -5,7 +5,7 @@ Engenheira Civil - Universidade Federal de Alagoas
 
 Engenheira Diagnóstica - BSSP
 
-Professora de programação - Byju's Future School
+Professora de programação para crianças e adolecentes - Byju's Future School
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-vasconcelos-9192b221/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carla.vasconcelos2/)
