@@ -1,4 +1,4 @@
-### Olá pequeno(a) gafanhoto, eu sou Carla Vaconcelos 😝😜
+### Olá pequeno(a) gafanhoto, sou a Carla Vaconcelos 😝😜
 Engenheira por formação, dev por amor (e as vezes é só puro ódio rsrs) 🕹️❤️
 
 Engenheira Civil - Universidade Federal de Alagoas
