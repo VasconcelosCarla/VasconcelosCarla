@@ -2,6 +2,7 @@
 Engenheira por formação, dev por amor (e as vezes ódio rsrs) 🕹️❤️
 
 Engenheira Civil - Universidade Federal de Alagoas
+
 Engenheira Diagnóstica - BSSP
 
 Professora de programação - Byju's Future School
