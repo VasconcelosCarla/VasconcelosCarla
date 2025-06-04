@@ -1,7 +1,7 @@
 
 ### Olá, pequenos programadores, sou a Carla Vasconcelos 😝😜
 Professora de programação com mais de 3000 horas de aulas ministradas 🕹️❤️
-
+CEO and Founder @EscolaCodeMinds
 Engenheira de Software em formação! ❤️
 
 Engenheira Civil - Universidade Federal de Alagoas
