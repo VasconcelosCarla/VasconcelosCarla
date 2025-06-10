@@ -1,10 +1,9 @@
 
 ### Olá, pequenos programadores, sou a Carla Vasconcelos 😝😜
 Professora de programação com mais de 3000 horas de aulas ministradas 🕹️❤️
-CEO and Founder @EscolaCodeMinds
-Engenheira de Software em formação! ❤️
-
+CEO & Founder @EscolaCodeMinds
 Engenheira Civil - Universidade Federal de Alagoas
+Engenheira de Software - Unopar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-vasconcelos-9192b221/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carla.vasconcelos2/)
